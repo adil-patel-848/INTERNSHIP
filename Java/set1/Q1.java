@@ -1,0 +1,8 @@
+class Q1
+{
+    public static void main(String[]args)
+    {
+        int a=4, b=8;
+        System.out.println("Addition:"+(a+b));
+    }
+}
